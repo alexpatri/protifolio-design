@@ -82,6 +82,7 @@ main {
 .pdf {
     width: 30vw;
     height: 50vh;
+    border: none;
 }
 
 footer {
